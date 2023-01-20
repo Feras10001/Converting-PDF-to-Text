@@ -27,3 +27,9 @@ The following libraries are included:
 The result are demonstrated in the both python scripts 
 
 -------------------------------------------------------------------
+**Disclaimer & acknowledgement**
+The main codes can be found in GeeksforGeeks webiste and you can check the links below. I only added some comments in the codes for further clarification + minor modifications to make it easier to use. I would also like to thank GeeksforGeeks for having incridable resources that helped me in the Python coding. I advise checking their website :smile:
+https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/?ref=gcse
+https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/
+https://www.geeksforgeeks.org/encrypt-and-decrypt-pdf-using-pypdf2/
+https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
